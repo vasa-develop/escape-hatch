@@ -1,0 +1,9 @@
+i18n/codegen
+storybook-static/
+.next/
+build/
+.github/
+coverage
+public/
+node_modules/
+__generated__/
