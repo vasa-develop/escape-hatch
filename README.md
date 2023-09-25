@@ -63,7 +63,7 @@ Checklist for L2 escape hatches for each L2:
 Clone this repo
 
 ```
-git clone https://github.com/nitantchhajed/op-stack-bridge.git
+git clone https://github.com/vasa-develop/escape-hatch.git
 
 yarn 
 ```
